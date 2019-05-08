@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Organizze</string>
+
+
+    <string name="intro_1_1">Organize sua vida de onde estiver</string>
+    <string name="intro_1_2">Simples, facil de usar e gratis!</string>
+
+    <string name="intro_2_1">Saiba pra onde esta indo seu dinheiro</string>
+    <string name="intro_2_2">Categorizando seus lançamentos e vendo o destino de cada centavo</string>
+
+    <string name="intro_3_1">Nunca mais esqueça de pagar a conta</string>
+    <string name="intro_3_2">Receba alertas quando quiser</string>
+
+    <string name="intro_4_1">Tudo organizado, no celular ou no computador</string>
+    <string name="intro_4_2">Use no seu smartphone e acessando o Organizze pelo site</string>
+
+    <string name="intro_cadastro_1">Crie sua conta gratis!</string>
+    <string name="intro_cadastro_2">Junte a mais de meio milhão de pessoas, e comece já</string>
+    <string name="intro_cadastro_3">Já tenho conta</string>
+    <string name="intro_cadastro_button">CADASTRE-SE</string>
+
+    <string name="activity_cadastro_1">Crie sua conta gratis!</string>
+    <string name="activity_cadastro_2">Nome</string>
+    <string name="activity_cadastro_3">Email</string>
+    <string name="activity_cadastro_4">Senha</string>
+    <string name="activity_cadastro_5">Termos de uso</string>
+
+    <string name="activity_login_1">Acesse sua conta</string>
+    <string name="activity_login_button">ENTRAR</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+
+    <string name="activity_receita_1">R$ 00.00</string>
+    <string name="activity_receita_2">Ex: 16/04/2019</string>
+    <string name="activity_receita_3">Ex: Salário</string>
+    <string name="activity_receita_4">Ex: Salário Mensal</string>
+
+</resources>
